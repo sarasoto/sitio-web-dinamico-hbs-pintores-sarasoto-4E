@@ -1,0 +1,25 @@
+{
+  "name": "sitiodinamico",
+  "version": "1.0.0",
+  "description": "creacion de un sitio web dinamico con nbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sara Soto Chavarria",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarasoto/sitio-web-dinamico-hbs-pintores-sarasoto-4E.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarasoto/sitio-web-dinamico-hbs-pintores-sarasoto-4E/issues"
+  },
+  "homepage": "https://github.com/sarasoto/sitio-web-dinamico-hbs-pintores-sarasoto-4E#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.3",
+    "hbs": "^4.1.1"
+  }
+}
